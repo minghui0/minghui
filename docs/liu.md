@@ -31,7 +31,7 @@
 
 ![](images/2004-1-3-lcj--ss.jpg?raw=true)
 ![GitHub Logo](2004-1-3-lcj--ss.jpg?raw=true)
-![GitHub Logo](https://cloud.githubusercontent.com/assets/26177494/23581820/a4fc37da-00ea-11e7-85b1-69ba1c65f86f.jpg)
+![GitHub Logo](https://cloud.githubusercontent.com/assets/26177494/23581820/a4fc37da-00ea-11e7-85b1-69ba1c65f86f.jpg?raw=true)
 
 </tr>
 
