@@ -27,6 +27,8 @@
 <td>[![法轮功学员刘成军](/mh/article_images/2004-1-3-lcj--ss.jpg)](/mh/article_images/2004-1-3-lcj.jpg)  
 法轮功学员刘成军</td>
 
+![](images/2004-1-3-lcj--ss.jpg?raw=true)
+
 </tr>
 
 </tbody>
