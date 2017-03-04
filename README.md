@@ -36,6 +36,11 @@
 
 ![Pappu Pakia](http://i.imgur.com/zYD37.png)
 
+
+<img src="https://cloud.githubusercontent.com/assets/26177494/23581820/a4fc37da-00ea-11e7-85b1-69ba1c65f86f.jpg">
+
+<img src="http://i.imgur.com/zYD37.png">
+
 </tr>
 
 </tbody>
