@@ -26,8 +26,7 @@
 
 <tr align="CENTER" valign="top">
 
-<td>[![法轮功学员刘成军](/mh/article_images/2004-1-3-lcj--ss.jpg)](/mh/article_images/2004-1-3-lcj.jpg)  
-法轮功学员刘成军</td>
+<td>[![法轮功学员刘成军](/mh/article_images/2004-1-3-lcj--ss.jpg)](/mh/article_images/2004-1-3-lcj.jpg)法轮功学员刘成军</td>
 
 ![](images/2004-1-3-lcj--ss.jpg?raw=true)
 ![GitHub Logo](2004-1-3-lcj--ss.jpg?raw=true)
@@ -39,7 +38,8 @@
 
 <img src="https://cloud.githubusercontent.com/assets/26177494/23581820/a4fc37da-00ea-11e7-85b1-69ba1c65f86f.jpg">
 
-<img src="http://i.imgur.com/zYD37.png">
+<td>[<img src="https://cloud.githubusercontent.com/assets/26177494/23581820/a4fc37da-00ea-11e7-85b1-69ba1c65f86f.jpg">](https://cloud.githubusercontent.com/assets/26177494/23581821/a4fc19ee-00ea-11e7-83dd-0fdecc0f3f10.jpg)法轮功学员刘成军</td>
+
 
 </tr>
 
