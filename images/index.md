@@ -28,8 +28,8 @@
 法轮功学员刘成军</td>
 
 ![](images/2004-1-3-lcj--ss.jpg?raw=true)
-![GitHub Logo](images/2004-1-3-lcj--ss.jpg?raw=true)
-![GitHub Logo](images/2004-1-3-lcj--ss.jpg)
+![GitHub Logo](2004-1-3-lcj--ss.jpg?raw=true)
+![GitHub Logo](2004-1-3-lcj--ss.jpg)
 
 </tr>
 
