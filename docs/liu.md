@@ -32,7 +32,6 @@
 ![](images/2004-1-3-lcj--ss.jpg?raw=true)
 ![GitHub Logo](2004-1-3-lcj--ss.jpg?raw=true)
 ![GitHub Logo](2004-1-3-lcj--ss.jpg)
-![Pappu Pakia](http://i.imgur.com/zYD37.png)
 
 </tr>
 
