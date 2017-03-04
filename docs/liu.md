@@ -1,6 +1,6 @@
 <div id="arp_breadcrumb">[明慧主页](/) > [大陆消息](/mh/fenlei/72/) > [更多迫害案例](/mh/fenlei/81/)</div>
 
-[一个下载文件包](http://github.com)
+[ 明慧周报：大陆版（第六三零期） 打印版（PDF文件）下载](https://github.com/minghui0/minghui/files/818905/MHZB_630_pdf.zip)
 
 # 记电视插播英雄刘成军（图）
 
@@ -31,7 +31,7 @@
 
 ![](images/2004-1-3-lcj--ss.jpg?raw=true)
 ![GitHub Logo](2004-1-3-lcj--ss.jpg?raw=true)
-![GitHub Logo](2004-1-3-lcj--ss.jpg)
+![GitHub Logo](https://cloud.githubusercontent.com/assets/26177494/23581820/a4fc37da-00ea-11e7-85b1-69ba1c65f86f.jpg)
 
 </tr>
 
