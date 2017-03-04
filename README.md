@@ -1,28 +1,8 @@
-<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"> <link rel="stylesheet" type="text/css" href="/pub/cmh2015/master.css"> <link rel="stylesheet" type="text/css" href="/pub/p7pmm/p7PMMh04.css"> <link rel="stylesheet" type="text/css" href="/pub/p7hgm/p7hgm04.css"> <link rel="stylesheet" type="text/css" href="/pub/p7irm/p7IRM01.css"> <link rel="stylesheet" type="text/css" href="/pub/cmh2015/css/liquidcarousel.css">        
-
-<div id="master_container">
-
-<div id="arp_content">
-
 <div id="arp_breadcrumb">[明慧主页](/) > [大陆消息](/mh/fenlei/72/) > [更多迫害案例](/mh/fenlei/81/)</div>
-
-<div id="arp_container1">
-
-<div id="arp_container1_1">
-
-<div id="arp_article1">
-
-<div class="arp_articleTitle">
 
 # 记电视插播英雄刘成军（图）
 
-</div>
-
-<div id="arp_bArticleContent_OuterFrame">
-
-<div class="arp_AuthorDate"><span class="arp_articleAuthor">文：大陆法轮功学员</span></div>
-
-<div id="arp_bArticleContent" class="arp_articleContent">【明慧网二零一七年三月四日】十五年前的三月五日，吉林省法轮功学员为了揭露江氏集团制造的“天安门自焚”等弥天大谎、告诉世人法轮功的真相，在长春市、松原市两地有线电视网络的八个频道成功的插播了《法轮大法洪传世界》、《是自焚还是骗局》等电视片，播放时间长达四、五十分钟，使近十万民众知道了法轮功被诬陷和迫害的真相，在中国大陆及海外引起巨大震动。
+【明慧网二零一七年三月四日】十五年前的三月五日，吉林省法轮功学员为了揭露江氏集团制造的“天安门自焚”等弥天大谎、告诉世人法轮功的真相，在长春市、松原市两地有线电视网络的八个频道成功的插播了《法轮大法洪传世界》、《是自焚还是骗局》等电视片，播放时间长达四、五十分钟，使近十万民众知道了法轮功被诬陷和迫害的真相，在中国大陆及海外引起巨大震动。
 
 当权小丑江泽民对此极度恐慌，歇斯底里地下达“杀无赦”密令。随后吉林省警察绑架了五千多名法轮功学员。在大抓捕中，至少七人被打死，另有十五人被非法判刑四至二十年重刑。
 
@@ -199,18 +179,5 @@
 
 插播义举十五年后的今天，无数无数的法轮功学员仍然在生死无惧的践行着先驱们的初衷。那就是破除谎言，传播真相。告诉世人“法轮大法好”，远离中共这个真正的邪教组织，三退（即退出中共党、团、队员）保平安。可贵的中国同胞们啊！你们可看到了？可听到了？可选择了？  
 
-</div>
-
 <div id="minghuiwangurl">http://www.minghui.org/mh/articles/2017/3/4/记电视插播英雄刘成军（图）-343828.html</div>
 
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
