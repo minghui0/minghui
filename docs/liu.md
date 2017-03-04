@@ -1,3 +1,4 @@
+![Pappu Pakia](http://i.imgur.com/zYD37.png)
 
 [ 明慧周报：大陆版（第六三零期） 打印版（PDF文件）下载](https://github.com/minghui0/minghui/files/818905/MHZB_630_pdf.zip)
 
