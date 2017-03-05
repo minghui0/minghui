@@ -1,4 +1,4 @@
-![banner](https://cloud.githubusercontent.com/assets/26177494/23582456/73786a5e-00f8-11e7-81ec-6cda3bd85146.png)
+![banner](https://cloud.githubusercontent.com/assets/26177494/23587522/3e7eb5ea-017c-11e7-9d75-30643c62ba2a.jpg)
 
 # 明慧要闻
 
